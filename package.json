@@ -1,0 +1,28 @@
+{
+  "name": "nodecicd",
+  "version": "1.0.0",
+  "description": "node CI /CD example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niazahmad12/nodecicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niazahmad12/nodecicd/issues"
+  },
+  "homepage": "https://github.com/niazahmad12/nodecicd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  }
+}
